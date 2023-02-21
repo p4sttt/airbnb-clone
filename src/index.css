@@ -1,0 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
+fliters::-webkit-scrollbar {
+  width: 0px;
+}
