@@ -2,6 +2,6 @@
   box-sizing: border-box;
 }
 
-fliters::-webkit-scrollbar {
+filters::-webkit-scrollbar {
   width: 0px;
 }
