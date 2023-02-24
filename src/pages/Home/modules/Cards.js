@@ -34,7 +34,7 @@ export default function Cards() {
   ];
 
   return (
-    <Grid templateColumns={'repeat(3, 1fr)'} gap="4">
+    <Grid templateColumns={'repeat(3, 1fr)'} gap="4" mt='4'>
       {apartments.map(apartment => (
         <GridItem>
           <Card
